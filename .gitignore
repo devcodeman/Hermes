@@ -1,8 +1,8 @@
-.states
-*.db
-assets/external/
-*.py[cod]
 .web
+*.py[cod]
+assets/external/
 __pycache__/
-**/logs
+*.db
+.claude
 .venv
+uploaded_files**
