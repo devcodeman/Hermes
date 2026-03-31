@@ -3,7 +3,11 @@
 
 ![hermes-logo](assets/hermes-logo-w-wording.png)
 
-A ground support command and telemetry dashboard built with Python 3.12, Reflex 0.8, and UV.
+## Description
+
+Hermes is a ground support command and telemetry dashboard built for device bring-up, monitoring, and analysis. 
+
+It gives operators a single place to connect to hardware, view live telemetry, track operational events, validate uploaded telemetry datasets, and export recorded logs for later review.
 
 ## Requirements
 
